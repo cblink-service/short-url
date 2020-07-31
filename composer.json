@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "cblink-service/kernel": "dev-master"
+        "cblink-service/kernel": "^0.1.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0|^8.5",
